@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DdatGe
 - 👀 I’m interested in ...brain&cognitive science
 - 🌱 I’m currently learning ...data analysis
-- 💞️ I’m looking to collaborate on ...I don't know. I want to study analysis more now!
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... suna100012@gmail.com
 
 <!---
